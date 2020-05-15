@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\git\meta-cpp-sandbox\src\main.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\git\meta-cpp-sandbox\src\main.cpp(68): warning C4129: 'A': unrecognized character escape sequence
+  TMP.vcxproj -> D:\Git\meta-cpp-sandbox\Debug\TMP.exe
